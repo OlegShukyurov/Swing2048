@@ -17,7 +17,7 @@ ____
   java -jar 2048.jar
 ```
 
-## Instructions to play
+## Instructions
 ____
 
 Передвижение плиток осуществляется посредством клавиш **LEFT**, **RIGHT**, **UP**, **DOWN**.
